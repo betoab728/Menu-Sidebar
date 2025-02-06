@@ -1,0 +1,51 @@
+# Archivos generados por Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.ncrunch*
+*.localhistory/
+
+# Carpetas de compilación
+/bin/
+/obj/
+/debug/
+/release/
+
+# Archivos de paquete NuGet
+*.nupkg
+*.snupkg
+/packages/
+project.lock.json
+project.fragment.lock.json
+.nuget/
+
+# Archivos de logs y temporales
+*.log
+*.tlog
+*.tmp
+*.bak
+
+# Archivos de configuración de sistema operativo
+Thumbs.db
+.DS_Store
+
+# Archivos de bloqueo
+*.lock
+
+# Configuraciones específicas del proyecto
+appsettings.json
+appsettings.Development.json
+
+# Archivos generados por herramientas
+*.dbmdl
+*.jfm
+
+# Archivos de respaldo o específicos del editor
+*.ide
+*.bak
+_ReSharper.*
+*.resharper
+
+# Configuraciones de publicación
+publish/
